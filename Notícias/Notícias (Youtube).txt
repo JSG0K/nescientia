@@ -1,0 +1,13 @@
+!=== Notícias ===
+!Videos in related bar
+youtube.com###related ytd-compact-video-renderer:has-text(/msn|mbl|mete[oó]ro ?brasil|Instituto ?Conhecimento ?Liberta|Metr[oó]poles|Globo|G1|Balan[cço ?Geral]|SBT ?News|CNN ?Brasil|Record ?News|UOL|BBC ?News ?Brasil|MyNews|Itatiaia|Brasil ?Urgente|Terra ?Brasil|RedeTV|DW ?Brasil|CartaCapital|Estadão|R7|Folha ?de ?S[aã]o ?Paulo|Folha ?de ?S\.Paulo|Band ?Jornalismo|O ?TEMPO|Revista ?Oeste|Poder360|RECORD|R7/i):remove()
+!Shorts
+youtube.com##ytd-shelf-renderer:has-text(/msn|mbl|mete[oó]ro ?brasil|Instituto ?Conhecimento ?Liberta|Metr[oó]poles|Globo|G1|Balan[cço ?Geral]|SBT ?News|CNN ?Brasil|Record ?News|UOL|BBC ?News ?Brasil|MyNews|Itatiaia|Brasil ?Urgente|Terra ?Brasil|RedeTV|DW ?Brasil|CartaCapital|Estadão|R7|Folha ?de ?S[aã]o ?Paulo|Folha ?de ?S\.Paulo|Band ?Jornalismo|O ?TEMPO|Revista ?Oeste|Poder360|RECORD|R7/i):remove()
+!Videos in general
+youtube.com##ytd-video-renderer:has-text(/msn|mbl|mete[oó]ro ?brasil|Instituto ?Conhecimento ?Liberta|Metr[oó]poles|Globo|G1|Balan[cço ?Geral]|SBT ?News|CNN ?Brasil|Record ?News|UOL|BBC ?News ?Brasil|MyNews|Itatiaia|Brasil ?Urgente|Terra ?Brasil|RedeTV|DW ?Brasil|CartaCapital|Estadão|R7|Folha ?de ?S[aã]o ?Paulo|Folha ?de ?S\.Paulo|Band ?Jornalismo|O ?TEMPO|Revista ?Oeste|Poder360|RECORD|R7/i):remove()
+!Shorts
+youtube.com##ytd-rich-item-renderer:has-text(/msn|mbl|mete[oó]ro ?brasil|Instituto ?Conhecimento ?Liberta|Metr[oó]poles|Globo|G1|Balan[cço ?Geral]|SBT ?News|CNN ?Brasil|Record ?News|UOL|BBC ?News ?Brasil|MyNews|Itatiaia|Brasil ?Urgente|Terra ?Brasil|RedeTV|DW ?Brasil|CartaCapital|Estadão|R7|Folha ?de ?S[aã]o ?Paulo|Folha ?de ?S\.Paulo|Band ?Jornalismo|O ?TEMPO|Revista ?Oeste|Poder360|RECORD|R7/i):remove()
+!Channel
+youtube.com##ytd-channel-renderer:has-text(/msn|mbl|mete[oó]ro ?brasil|Instituto ?Conhecimento ?Liberta|Metr[oó]poles|Globo|G1|Balan[cço ?Geral]|SBT ?News|CNN ?Brasil|Record ?News|UOL|BBC ?News ?Brasil|MyNews|Itatiaia|Brasil ?Urgente|Terra ?Brasil|RedeTV|DW ?Brasil|CartaCapital|Estadão|R7|Folha ?de ?S[aã]o ?Paulo|Folha ?de ?S\.Paulo|Band ?Jornalismo|O ?TEMPO|Revista ?Oeste|Poder360|RECORD|R7/i):remove()
+!Shorts
+youtube.com##ytd-reel-shelf-renderer:has-text(/msn|mbl|mete[oó]ro ?brasil|Instituto ?Conhecimento ?Liberta|Metr[oó]poles|Globo|G1|Balan[cço ?Geral]|SBT ?News|CNN ?Brasil|Record ?News|UOL|BBC ?News ?Brasil|MyNews|Itatiaia|Brasil ?Urgente|Terra ?Brasil|RedeTV|DW ?Brasil|CartaCapital|Estadão|R7|Folha ?de ?S[aã]o ?Paulo|Folha ?de ?S\.Paulo|Band ?Jornalismo|O ?TEMPO|Revista ?Oeste|Poder360|RECORD|R7/i):remove()

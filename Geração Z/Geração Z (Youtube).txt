@@ -1,0 +1,13 @@
+!=== Geração Z ===
+!Videos in related bar
+youtube.com###related ytd-compact-video-renderer:has-text(/(Cultura)? ?Woke|lgbt|red ?pill|G[eê]nero ?fluido|Pang[eê]nero|Intersexo|Queer|Bissexual|Transg[eê]nero|Demissexual|Demig[eê]nero|Genderqueer|Andr[oó]gino|Polysexual/i):remove()
+!Shorts
+youtube.com##ytd-shelf-renderer:has-text(/(Cultura)? ?Woke|lgbt|red ?pill|G[eê]nero ?fluido|Pang[eê]nero|Intersexo|Queer|Bissexual|Transg[eê]nero|Demissexual|Demig[eê]nero|Genderqueer|Andr[oó]gino|Polysexual/i):remove()
+!Videos in general
+youtube.com##ytd-video-renderer:has-text(/(Cultura)? ?Woke|lgbt|red ?pill|G[eê]nero ?fluido|Pang[eê]nero|Intersexo|Queer|Bissexual|Transg[eê]nero|Demissexual|Demig[eê]nero|Genderqueer|Andr[oó]gino|Polysexual/i):remove()
+!Shorts
+youtube.com##ytd-rich-item-renderer:has-text(/(Cultura)? ?Woke|lgbt|red ?pill|G[eê]nero ?fluido|Pang[eê]nero|Intersexo|Queer|Bissexual|Transg[eê]nero|Demissexual|Demig[eê]nero|Genderqueer|Andr[oó]gino|Polysexual/i):remove()
+!Channel
+youtube.com##ytd-channel-renderer:has-text(/(Cultura)? ?Woke|lgbt|red ?pill|G[eê]nero ?fluido|Pang[eê]nero|Intersexo|Queer|Bissexual|Transg[eê]nero|Demissexual|Demig[eê]nero|Genderqueer|Andr[oó]gino|Polysexual/i):remove()
+!Shorts
+youtube.com##ytd-reel-shelf-renderer:has-text(/(Cultura)? ?Woke|lgbt|red ?pill|G[eê]nero ?fluido|Pang[eê]nero|Intersexo|Queer|Bissexual|Transg[eê]nero|Demissexual|Demig[eê]nero|Genderqueer|Andr[oó]gino|Polysexual/i):remove()
