@@ -17,12 +17,8 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Lists in use:**
+- [e.g. Política (YouTube) - v1.0]
 
 **Version (please complete the following information):**
- - OS + Version: [e.g. iPadOS 18.1]
  - Browser + Version: [e.g. Tor Browser 14.0.2]
