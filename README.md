@@ -23,7 +23,7 @@ Modifica o layout padrão das redes sociais.
 Personalize o layout das redes sociais para uma experiência mais limpa e sem distrações. Remova elementos como comentários, vídeos recomendados, likes e outros, criando um ambiente focado no conteúdo que você realmente deseja consumir. Ideal para quem busca maior produtividade, privacidade e uma navegação mais tranquila.
 
 **📥 Filtros (Download):**
-- [👁️ Somente Visualização (YouTube)]() [TXT]
+- [👁️ Somente Visualização (YouTube)](https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/Apar%C3%AAncia/Somente%20Visualiza%C3%A7%C3%A3o%20(YouTube).txt) [TXT]
 
 ### 1. 🤡 [Política](Política)
 Filtra nomes de políticos famosos e termos relacionados à política.  
@@ -33,7 +33,7 @@ Filtra nomes de políticos famosos e termos relacionados à política.
 A política costuma gerar debates intensos, e com isso, pode acabar desviando o foco de coisas que realmente fazem sentido na sua vida. Além disso, ficar se expondo a tanta política pode trazer desinformação e polarização, o que só aumenta o estresse e afeta a saúde mental. Melhor filtrar e focar em algo mais tranquilo, né? 😅
 
 **📥 Filtros (Download):**
-- [🤡 Política (YouTube)]() [TXT]
+- [🤡 Política (YouTube)](https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/Pol%C3%ADtica/Pol%C3%ADtica%20(YouTube).txt) [TXT]
 
 ### 2. 🙅‍♀️ [Geração Z](Geração%20Z)  
 Filtra termos populares da geração atual que frequentemente causam debates intensos.  
@@ -45,7 +45,7 @@ A cultura jovem está sempre mudando, e isso pode se tornar uma fonte de estress
 ⚠️ **ALERTA:** Lembre-se, esse filtro pode bloquear discussões importantes sobre igualdade social 🏳️‍🌈. Use com sabedoria! 
 
 **📥 Filtros (Download):**
-- [🙅‍♀️ Geração Z (YouTube)]() [TXT]
+- [🙅‍♀️ Geração Z (YouTube)](https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/Gera%C3%A7%C3%A3o%20Z/Gera%C3%A7%C3%A3o%20Z%20(YouTube).txt) [TXT]
 
 ### 3. 💸 [Coaches](Coaches)  
 Remove os coaches mais famosos da internet.  
@@ -55,7 +55,7 @@ Remove os coaches mais famosos da internet.
 Muitos coaches, não que sejam esses citados acima 🤭, estão sempre vendendo cursos e promessas de sucesso fácil. Se você não quer cair nessas ciladas ou gastar uma grana à toa, o filtro é seu maior aliado. Evite o famoso “fique milionário em 30 dias 🤑” e mantenha o foco no que realmente importa!  
 
 **📥 Filtros (Download):**
-- [💸 Coaches (YouTube)]() [TXT]
+- [💸 Coaches (YouTube)](https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/Coaches/Coaches%20(YouTube).txt) [TXT]
 
 ### 4. 👽 [Pseudociência](Pseudociência)  
 Remove termos relacionados a pseudociências.  
@@ -65,7 +65,7 @@ Remove termos relacionados a pseudociências.
 Em tempos de fake news, é fácil ser enganado por informações sem base científica 🧪. Esse filtro ajuda a manter sua timeline mais segura e cheia de conteúdo que realmente faz sentido, baseado em evidências. 🧠💡
 
 **📥 Filtros (Download):**
-- [👽 Pseudociência (YouTube)]() [TXT]
+- [👽 Pseudociência (YouTube)](https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/Pseudoci%C3%AAncia/Pseudoci%C3%AAncia%20(YouTube).txt) [TXT]
 
 ### 5. 🫦 [Conteúdo Adulto](Conteúdo%20Adulto)  
 Remove termos relacionados a conteúdo adulto.  
@@ -77,7 +77,7 @@ Se você não quer ver esse tipo de conteúdo ou simplesmente prefere focar em c
 ⚠️ **ALERTA:** Essa lista não bloqueia 100% do conteúdo adulto, então, combine com outras listas como [OSID NFSW](https://oisd.nl/) para um bloqueio mais completo.  
 
 **📥 Filtros (Download):**
-- [🫦 Conteúdo Adulto]() [TXT]
+- [🫦 Conteúdo Adulto](https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/Conte%C3%BAdo%20Adulto/Conte%C3%BAdo%20Adulto%20(YouTube).txt) [TXT]
 
 ### 6. 🙏 [Religião](Religião) 
 Remove termos religiosos.  
@@ -87,7 +87,7 @@ Remove termos religiosos.
 No Brasil, muitas religiões acabaram virando palco de disputas políticas. Se você não quer ver nada relacionado a isso, esse filtro pode ser útil. Mas se você é religioso, melhor nem usar, porque ele vai bloquear quase tudo. 🙏❌
 
 **📥 Filtros (Download):**
-- [🙏 Religião (YouTube)]() [TXT]
+- [🙏 Religião (YouTube)](https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/Religi%C3%A3o/Religi%C3%A3o%20(YouTube).txt) [TXT]
 
 ### 7. 🎮 [Games](Games)
 Remove conteúdo relacionado a jogos.  
@@ -97,7 +97,7 @@ Remove conteúdo relacionado a jogos.
 Jogos são divertidos, mas podem consumir muito do seu tempo ⌛️, principalmente se você tem outras prioridades (estudos, trabalho, etc.). Se precisar focar mais, esse filtro vai ajudar a evitar a tentação de “só mais uma partidinha”. 🎮🚫  
 
 **📥 Filtros (Download):**
-- [🎮 Games (YouTube)]() [TXT]
+- [🎮 Games (YouTube)](https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/Games/Games%20(YouTube).txt) [TXT]
 
 ### 8. 💰 [Bets](Bets)  
 Remove conteúdo relacionado a apostas.  
@@ -106,7 +106,7 @@ Remove conteúdo relacionado a apostas.
 Apostar pode ser tentador e divertido, mas também pode virar um vício. Esse filtro ajuda a evitar esse tipo de conteúdo e ainda te poupa de perder um dinheirinho. 💸⚠️  
 
 **📥 Filtros (Download):**
-- [💰 Bets (YouTube)]() [TXT]
+- [💰 Bets (YouTube)](https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/Bets/Bets%20(YouTube).txt) [TXT]
 
 ### 9. 🤸🏾‍♀️ [TikTok Major Influencers](TikTok%20Major%20Influencers)  
 Remove influenciadores famosos do TikTok.  
@@ -116,7 +116,7 @@ Remove influenciadores famosos do TikTok.
 O TikTok é cheio de vídeos divertidos e desafios (principalmente as dancinhas 😜), mas nem todo mundo quer ver isso o tempo todo. Filtrar esses influenciadores pode ajudar a manter sua timeline mais alinhada com seus interesses, sem perder tempo com conteúdo irrelevante. 💃🚫  
 
 **📥 Filtros (Download):**
-- [🤸🏾‍♀️ TikTok Major Influencers (YouTube)]() [TXT]
+- [🤸🏾‍♀️ TikTok Major Influencers (YouTube)](https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/TikTok%20Major%20Influencers/TikTok%20Major%20Influencers%20(YouTube).txt) [TXT]
 
 ### 10. 📰 [Notícias](Notícias) 
 Remove grande parte dos veículos de notícias.  
@@ -126,7 +126,7 @@ Remove grande parte dos veículos de notícias.
 As notícias muitas vezes são sensacionalistas e acabam gerando um nível de ansiedade desnecessário. Filtrar esses sites ajuda a criar um ambiente mais tranquilo e focado no que realmente importa. E se algo realmente importante acontecer, pode deixar que você vai ficar sabendo por outras fontes! 📰❌
 
 **📥 Filtros (Download):**
-- [📰 Notícias (YouTube)]() [TXT]
+- [📰 Notícias (YouTube)](https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/Not%C3%ADcias/Not%C3%ADcias%20(YouTube).txt) [TXT]
 
 ## Estrutura do Projeto 📁
 
@@ -143,7 +143,7 @@ Se notar algum problema, como:
 - Um conteúdo relevante está sendo bloqueado.
 - Quebrou o layout de uma página.
 
-Não hesite! Abra uma **☎️ [issue](issues)** no GitHub e ajude a melhorar o NESCIENTIA para todos. Sua contribuição é essencial! 💪
+Não hesite! Abra uma **☎️ [issue](https://github.com/JSG0K/nescientia/issues)** no GitHub e ajude a melhorar o NESCIENTIA para todos. Sua contribuição é essencial! 💪
 
 ## Licença 📜
 
