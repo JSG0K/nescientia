@@ -1,0 +1,26 @@
+[Adblock Plus]
+! Homepage: https://github.com/JSG0K/nescientia
+! License: https://github.com/JSG0K/nescientia/blob/main/LICENSE
+! Issues: https://github.com/JSG0K/nescientia/issues
+! Platform: YouTube
+! Category: Games
+! Title: 🎮 Games (YouTube)
+! Description: Remove conteúdo relacionado a jogos.
+! Expires: 1 day
+! Last modified: 13 Dec 2024 09:22 UTC
+! Version: v1.0
+! Syntax: AdBlock
+! Number of entries: 6
+
+!Videos in related bar
+youtube.com###related ytd-compact-video-renderer:has-text(/valorant|cblol|league ?of ?legends|lck|lpl|baianotv|gaules|cs:?go|counterstrike|minecraft|ilha ?das ?lendas|(Canal)? ?Smoke ?Mid|cebol[ãa]o|jukes|Dudu ?Duelista|brtt|kamikat|TcK ?(10)?|Mylon|Valorant ?Esports ?BR|Valorant ?Esports|Warzone|fortnite|ballistic|apex ?legends|loudgg|xarola|(coreano|coreanowo)|dota|alan ?zoka/i):remove()
+!Shorts
+youtube.com##ytd-shelf-renderer:has-text(/valorant|cblol|league ?of ?legends|lck|lpl|baianotv|gaules|cs:?go|counterstrike|minecraft|ilha ?das ?lendas|(Canal)? ?Smoke ?Mid|cebol[ãa]o|jukes|Dudu ?Duelista|brtt|kamikat|TcK ?(10)?|Mylon|Valorant ?Esports ?BR|Valorant ?Esports|Warzone|fortnite|ballistic|apex ?legends|loudgg|xarola|(coreano|coreanowo)|dota|alan ?zoka/i):remove()
+!Videos in general
+youtube.com##ytd-video-renderer:has-text(/valorant|cblol|league ?of ?legends|lck|lpl|baianotv|gaules|cs:?go|counterstrike|minecraft|ilha ?das ?lendas|(Canal)? ?Smoke ?Mid|cebol[ãa]o|jukes|Dudu ?Duelista|brtt|kamikat|TcK ?(10)?|Mylon|Valorant ?Esports ?BR|Valorant ?Esports|Warzone|fortnite|ballistic|apex ?legends|loudgg|xarola|(coreano|coreanowo)|dota|alan ?zoka/i):remove()
+!Shorts
+youtube.com##ytd-rich-item-renderer:has-text(/valorant|cblol|league ?of ?legends|lck|lpl|baianotv|gaules|cs:?go|counterstrike|minecraft|ilha ?das ?lendas|(Canal)? ?Smoke ?Mid|cebol[ãa]o|jukes|Dudu ?Duelista|brtt|kamikat|TcK ?(10)?|Mylon|Valorant ?Esports ?BR|Valorant ?Esports|Warzone|fortnite|ballistic|apex ?legends|loudgg|xarola|(coreano|coreanowo)|dota|alan ?zoka/i):remove()
+!Channel
+youtube.com##ytd-channel-renderer:has-text(/valorant|cblol|league ?of ?legends|lck|lpl|baianotv|gaules|cs:?go|counterstrike|minecraft|ilha ?das ?lendas|(Canal)? ?Smoke ?Mid|cebol[ãa]o|jukes|Dudu ?Duelista|brtt|kamikat|TcK ?(10)?|Mylon|Valorant ?Esports ?BR|Valorant ?Esports|Warzone|fortnite|ballistic|apex ?legends|loudgg|xarola|(coreano|coreanowo)|dota|alan ?zoka/i):remove()
+!Shorts
+youtube.com##ytd-reel-shelf-renderer:has-text(/valorant|cblol|league ?of ?legends|lck|lpl|baianotv|gaules|cs:?go|counterstrike|minecraft|ilha ?das ?lendas|(Canal)? ?Smoke ?Mid|cebol[ãa]o|jukes|Dudu ?Duelista|brtt|kamikat|TcK ?(10)?|Mylon|Valorant ?Esports ?BR|Valorant ?Esports|Warzone|fortnite|ballistic|apex ?legends|loudgg|xarola|(coreano|coreanowo)|dota|alan ?zoka/i):remove()

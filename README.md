@@ -1,6 +1,6 @@
 # 🎈 NESCIENTIA
 
-**NESCIENTIA** é uma lista de filtros para adblockers 🏴‍☠️ (uBlock, Adguard, Brave Adblocker...) feita pra quem quer filtrar conteúdos indesejados no YouTube. Com várias categorias, as listas vão ajudar você a focar no que realmente importa 🧘🏿, seja no trabalho, na escola ou até no lazer. ⏳
+**NESCIENTIA** é uma lista de filtros para adblockers 🏴‍☠️ (uBlock, Adguard, Brave Adblocker...) feito para quem quer filtrar conteúdos indesejados no YouTube. Com várias categorias, as listas vão ajudar você a focar no que realmente importa 🧘🏿, seja no trabalho, na escola ou até no lazer. ⏳
 
 ## Por que NESCIENTIA? 🤔
 
@@ -10,19 +10,20 @@ A internet tá sempre tentando chamar nossa atenção, né? 🧛🏼🥷🏼👸
 
 - **Exclusivo para o 🇧🇷 Brasil**
 - **Linguagem**: PT-BR
-- **10 filtros de diversos assuntos**:
-  - Política
-  - Geração Z
-  - Coaches
-  - Pseudociência
-  - Conteúdo Sexual
-  - Religião
-  - Games
-  - Bets
-  - Tiktok Major Influencers
-  - Notícias
+- **11 filtros de diversos assuntos**: aparência, política, geração Z, coaches, pseudociência, conteúdo adulto, religião, games, bets, tiktok major influencers, notícias.
 
 ## Categorias de Filtros 📂
+
+### 0. 👁️ [Aparência](Aparência)
+Modifica o layout padrão das redes sociais.  
+**Exemplos:**
+- **YouTube**: remove comentários, vídeos recomendados, shorts, vídeos na página inicial, likes e outros.
+
+**Por que usar?**  
+Personalize o layout das redes sociais para uma experiência mais limpa e sem distrações. Remova elementos como comentários, vídeos recomendados, likes e outros, criando um ambiente focado no conteúdo que você realmente deseja consumir. Ideal para quem busca maior produtividade, privacidade e uma navegação mais tranquila.
+
+**📥 Filtros (Download):**
+- [👁️ Somente Visualização (YouTube)]() [TXT]
 
 ### 1. 🤡 [Política](Política)
 Filtra nomes de políticos famosos e termos relacionados à política.  
@@ -30,6 +31,9 @@ Filtra nomes de políticos famosos e termos relacionados à política.
 
 **Por que usar?**  
 A política costuma gerar debates intensos, e com isso, pode acabar desviando o foco de coisas que realmente fazem sentido na sua vida. Além disso, ficar se expondo a tanta política pode trazer desinformação e polarização, o que só aumenta o estresse e afeta a saúde mental. Melhor filtrar e focar em algo mais tranquilo, né? 😅
+
+**📥 Filtros (Download):**
+- [🤡 Política (YouTube)]() [TXT]
 
 ### 2. 🙅‍♀️ [Geração Z](Geração%20Z)  
 Filtra termos populares da geração atual que frequentemente causam debates intensos.  
@@ -40,12 +44,18 @@ A cultura jovem está sempre mudando, e isso pode se tornar uma fonte de estress
 
 ⚠️ **ALERTA:** Lembre-se, esse filtro pode bloquear discussões importantes sobre igualdade social 🏳️‍🌈. Use com sabedoria! 
 
+**📥 Filtros (Download):**
+- [🙅‍♀️ Geração Z (YouTube)]() [TXT]
+
 ### 3. 💸 [Coaches](Coaches)  
 Remove os coaches mais famosos da internet.  
 **Exemplos:** Pablo Marçal, Tony Robbins, Mário Sérgio Cortella.  
 
 **Por que usar?**
 Muitos coaches, não que sejam esses citados acima 🤭, estão sempre vendendo cursos e promessas de sucesso fácil. Se você não quer cair nessas ciladas ou gastar uma grana à toa, o filtro é seu maior aliado. Evite o famoso “fique milionário em 30 dias 🤑” e mantenha o foco no que realmente importa!  
+
+**📥 Filtros (Download):**
+- [💸 Coaches (YouTube)]() [TXT]
 
 ### 4. 👽 [Pseudociência](Pseudociência)  
 Remove termos relacionados a pseudociências.  
@@ -54,14 +64,20 @@ Remove termos relacionados a pseudociências.
 **Por que usar?**  
 Em tempos de fake news, é fácil ser enganado por informações sem base científica 🧪. Esse filtro ajuda a manter sua timeline mais segura e cheia de conteúdo que realmente faz sentido, baseado em evidências. 🧠💡
 
-### 5. 🫦 [Contéudo Sexual](Contéudo%20Sexual)  
-Remove termos relacionados a conteúdo sexual.  
-**Exemplos:** OnlyFans, nudes.  
+**📥 Filtros (Download):**
+- [👽 Pseudociência (YouTube)]() [TXT]
+
+### 5. 🫦 [Conteúdo Adulto](Conteúdo%20Adulto)  
+Remove termos relacionados a conteúdo adulto.  
+**Exemplos:** OnlyFans, nudes, sexo.  
 
 **Por que usar?**  
 Se você não quer ver esse tipo de conteúdo ou simplesmente prefere focar em coisas mais construtivas, o filtro vai te ajudar. Além de ser uma forma de evitar gatilhos para quem tem vícios. 🔒💬
 
 ⚠️ **ALERTA:** Essa lista não bloqueia 100% do conteúdo adulto, então, combine com outras listas como [OSID NFSW](https://oisd.nl/) para um bloqueio mais completo.  
+
+**📥 Filtros (Download):**
+- [🫦 Conteúdo Adulto]() [TXT]
 
 ### 6. 🙏 [Religião](Religião) 
 Remove termos religiosos.  
@@ -70,6 +86,9 @@ Remove termos religiosos.
 **Por que usar?**  
 No Brasil, muitas religiões acabaram virando palco de disputas políticas. Se você não quer ver nada relacionado a isso, esse filtro pode ser útil. Mas se você é religioso, melhor nem usar, porque ele vai bloquear quase tudo. 🙏❌
 
+**📥 Filtros (Download):**
+- [🙏 Religião (YouTube)]() [TXT]
+
 ### 7. 🎮 [Games](Games)
 Remove conteúdo relacionado a jogos.  
 **Exemplos:** Minecraft, Dota, GTA, Valorant, Fortnite.  
@@ -77,11 +96,17 @@ Remove conteúdo relacionado a jogos.
 **Por que usar?**  
 Jogos são divertidos, mas podem consumir muito do seu tempo ⌛️, principalmente se você tem outras prioridades (estudos, trabalho, etc.). Se precisar focar mais, esse filtro vai ajudar a evitar a tentação de “só mais uma partidinha”. 🎮🚫  
 
+**📥 Filtros (Download):**
+- [🎮 Games (YouTube)]() [TXT]
+
 ### 8. 💰 [Bets](Bets)  
 Remove conteúdo relacionado a apostas.  
 
 **Por que usar?**  
 Apostar pode ser tentador e divertido, mas também pode virar um vício. Esse filtro ajuda a evitar esse tipo de conteúdo e ainda te poupa de perder um dinheirinho. 💸⚠️  
+
+**📥 Filtros (Download):**
+- [💰 Bets (YouTube)]() [TXT]
 
 ### 9. 🤸🏾‍♀️ [TikTok Major Influencers](TikTok%20Major%20Influencers)  
 Remove influenciadores famosos do TikTok.  
@@ -90,6 +115,9 @@ Remove influenciadores famosos do TikTok.
 **Por que usar?**  
 O TikTok é cheio de vídeos divertidos e desafios (principalmente as dancinhas 😜), mas nem todo mundo quer ver isso o tempo todo. Filtrar esses influenciadores pode ajudar a manter sua timeline mais alinhada com seus interesses, sem perder tempo com conteúdo irrelevante. 💃🚫  
 
+**📥 Filtros (Download):**
+- [🤸🏾‍♀️ TikTok Major Influencers (YouTube)]() [TXT]
+
 ### 10. 📰 [Notícias](Notícias) 
 Remove grande parte dos veículos de notícias.  
 **Exemplos:** MSN, UOL, G1, R7, Band, SBT, Jovem Pan.  
@@ -97,11 +125,12 @@ Remove grande parte dos veículos de notícias.
 **Por que usar?**  
 As notícias muitas vezes são sensacionalistas e acabam gerando um nível de ansiedade desnecessário. Filtrar esses sites ajuda a criar um ambiente mais tranquilo e focado no que realmente importa. E se algo realmente importante acontecer, pode deixar que você vai ficar sabendo por outras fontes! 📰❌
 
+**📥 Filtros (Download):**
+- [📰 Notícias (YouTube)]() [TXT]
+
 ## Estrutura do Projeto 📁
 
-Aqui está uma versão mais descontraída e fluída do seu texto:
-
-As listas estão organizadas em pastas de acordo com cada categoria. Por exemplo, na pasta News, você encontra o arquivo News (Youtube).txt, que contém todos os filtros para o YouTube. Por enquanto, **o YouTube é a única plataforma suportada**, mas em breve vamos adicionar outras opções. Assim, você vai poder escolher quais plataformas deseja filtrar! 🚀
+As listas estão organizadas em pastas de acordo com cada categoria. Por exemplo, na pasta [Notícias](Notícias), você encontra o arquivo [Notícias (YouTube).txt](Notícias/Notícias%20(YouTube).txt), que contém todos os filtros para o YouTube. Por enquanto, **o YouTube é a única plataforma suportada**, mas em breve vamos adicionar outras opções. Assim, você vai poder escolher quais plataformas deseja filtrar! 🚀
 
 ## Como Usar 🛠️
 
@@ -114,7 +143,7 @@ Se notar algum problema, como:
 - Um conteúdo relevante está sendo bloqueado.
 - Quebrou o layout de uma página.
 
-Não hesite! Abra uma **issue** no GitHub e ajude a melhorar o NESCIENTIA para todos. Sua contribuição é essencial! 💪
+Não hesite! Abra uma **☎️ [issue](issues)** no GitHub e ajude a melhorar o NESCIENTIA para todos. Sua contribuição é essencial! 💪
 
 ## Licença 📜
 

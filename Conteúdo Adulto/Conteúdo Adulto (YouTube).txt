@@ -1,0 +1,26 @@
+[Adblock Plus]
+! Homepage: https://github.com/JSG0K/nescientia
+! License: https://github.com/JSG0K/nescientia/blob/main/LICENSE
+! Issues: https://github.com/JSG0K/nescientia/issues
+! Platform: YouTube
+! Category: Conteúdo Adulto
+! Title: 🫦 Conteúdo Adulto (YouTube)
+! Description: Remove termos relacionados a conteúdo adulto.
+! Expires: 1 day
+! Last modified: 13 Dec 2024 09:22 UTC
+! Version: v1.0
+! Syntax: AdBlock
+! Number of entries: 6
+
+!Videos in related bar
+youtube.com###related ytd-compact-video-renderer:has-text(/only ?fans|porn|porn[ôo]|nud[3e]s|(Martina ?Oliveira)|(martinaolvr)?(Dread ?Hot)|(Vitoria ?Schwarzeluhr)?Emme White?(Podcast ?Papagaio ?Falante)/i):remove()
+!Shorts
+youtube.com##ytd-shelf-renderer:has-text(/only ?fans|porn|porn[ôo]|nud[3e]s|(Martina ?Oliveira)|(martinaolvr)?(Dread ?Hot)|(Vitoria ?Schwarzeluhr)?Emme White?(Podcast ?Papagaio ?Falante)/i):remove()
+!Videos in general
+youtube.com##ytd-video-renderer:has-text(/only ?fans|porn|porn[ôo]|nud[3e]s|(Martina ?Oliveira)|(martinaolvr)?(Dread ?Hot)|(Vitoria ?Schwarzeluhr)?Emme White?(Podcast ?Papagaio ?Falante)/i):remove()
+!Shorts
+youtube.com##ytd-rich-item-renderer:has-text(/only ?fans|porn|porn[ôo]|nud[3e]s|(Martina ?Oliveira)|(martinaolvr)?(Dread ?Hot)|(Vitoria ?Schwarzeluhr)?Emme White?(Podcast ?Papagaio ?Falante)/i):remove()
+!Channel
+youtube.com##ytd-channel-renderer:has-text(/only ?fans|porn|porn[ôo]|nud[3e]s|(Martina ?Oliveira)|(martinaolvr)?(Dread ?Hot)|(Vitoria ?Schwarzeluhr)?Emme White?(Podcast ?Papagaio ?Falante)/i):remove()
+!Shorts
+youtube.com##ytd-reel-shelf-renderer:has-text(/only ?fans|porn|porn[ôo]|nud[3e]s|(Martina ?Oliveira)|(martinaolvr)?(Dread ?Hot)|(Vitoria ?Schwarzeluhr)?Emme White?(Podcast ?Papagaio ?Falante)/i):remove()

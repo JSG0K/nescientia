@@ -1,0 +1,79 @@
+[Adblock Plus]
+! Homepage: https://github.com/JSG0K/nescientia
+! License: https://github.com/JSG0K/nescientia/blob/main/LICENSE
+! Issues: https://github.com/JSG0K/nescientia/issues
+! Platform: YouTube
+! Category: Aparência
+! Title: 👁️ Somente Visualização (YouTube)
+! Description: Filtro que melhora o layout do YouTube, e remove distrações como: shorts, home page, recomendados e etc...
+! Expires: 1 day
+! Last modified: 13 Dec 2024 09:22 UTC
+! Version: v1.0
+! Syntax: AdBlock
+! Number of entries: 38
+
+! Remove lateral bar in main page
+youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
+! Remove top left options in home page
+youtube.com###buttons:matches-path("/") #buttons
+! Remove reels/shorts filter button
+youtube.com###header yt-chip-cloud-chip-renderer:has-text(/Shorts|Reels/i)
+! Remove reels/shorts
+youtube.com##ytd-reel-shelf-renderer
+youtube.com##ytd-rich-shelf-renderer
+youtube.com##ytd-video-renderer:has-text(/Shorts|Rells/i)
+youtube.com##yt-tab-shape:has-text(/Shorts|Rells/i)
+! Removem mixes
+youtube.com##yt-lockup-view-model
+! Remove channel reels tab button
+youtube.com##yt-tab-shape:matches-path(/@.*|\/c\/.*/i):has-text(/Shorts|Rells/i)
+! Remove channel's banner
+youtube.com##page-header-banner:matches-path(/@.*|\/c\/.*/i)
+! Remove subscription channel button
+youtube.com##yt-flexible-actions-view-model:matches-path/@.*|\/c\/.*/i):has-text(/Subscription|Join|Purchase/i)
+! Remove Members
+youtube.com##contents:matches-path(/@.*|\/c\/.*/i):has-text(/Our ?Members|Nossos ?Membros/i)
+! Remove live chat
+youtube.com###teaser-carousel:matches-path("/watch")
+! Remove like/deslike/share buttons
+youtube.com##ytd-watch-metadata #actions
+! Remove the subscribe/join/purchase button
+youtube.com###subscribe-button
+youtube.com###sponsor-button
+youtube.com###purchase-button
+! Remove video comments
+||youtube.com/live_chat_fragments_ajax?$xmlhttprequest
+||youtube.com/comment_service_ajax?$domain=youtube.com|youtu.be|youtube-nocookie.com
+youtube.com##ytd-comments
+m.youtube.com##ytm-comment-section-renderer
+youtube.com##ytd-live-chat-frame
+youtube.com###watch-discussion
+! Remove related (side bar videos) content
+youtube.com###secondary:matches-path("/watch") 
+youtube.com###related:matches-path("/watch") 
+! Remove left side video miniature card
+youtube.com##.iv-branding
+! Remove description infocards
+youtube.com##.ytd-video-description-infocards-section-renderer
+! Remove Homepage Filters
+youtube.com##ytd-feed-filter-chip-bar-renderer
+! Remove Homepage Videos
+youtube.com###contents[class="style-scope ytd-rich-grid-renderer"]
+! Remove Search Suggestions
+youtube.com##.ytSearchboxComponentSuggestionsContainer
+! Hide "1080p Premium" in the video quality menu
+youtube.com##.ytp-quality-menu .ytp-menuitem:has(.ytp-premium-label)
+! Self promotion dialogs in bottom left corner ("Join Now")
+youtube.com##ytd-popup-container > tp-yt-paper-dialog > ytd-mealbar-promo-renderer, ytd-popup-container > tp-yt-paper-dialog > yt-mealbar-promo-renderer:has-text(/Claim Offer|Join now|Not Now|No thanks|YouTube TV|live TV|Live TV|movies|sports|Try it free|unlimited DVR|watch NFL/)
+! Removes Mixes from search results
+youtube.com##ytd-radio-renderer
+! Removes Mixes from search results (Dec 2024)
+youtube.com##ytd-search yt-lockup-view-model:has([href$="&start_radio=1"][aria-label])
+! Removes Mixes from Video End Cards
+youtube.com##.ytp-videowall-still[data-is-mix="true"]
+! Paid content
+youtube.com##.ytp-paid-content-overlay
+! Suggestion
+youtube.com##.ytp-suggested-action
+! Remove Badge from Videos
+youtube.com##ytd-badge-supported-renderer

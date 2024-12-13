@@ -1,0 +1,26 @@
+[Adblock Plus]
+! Homepage: https://github.com/JSG0K/nescientia
+! License: https://github.com/JSG0K/nescientia/blob/main/LICENSE
+! Issues: https://github.com/JSG0K/nescientia/issues
+! Platform: YouTube
+! Category: Coaches
+! Title: 💸 Coaches (YouTube)
+! Description: Remove os coaches mais famosos da internet.
+! Expires: 1 day
+! Last modified: 13 Dec 2024 09:22 UTC
+! Version: v1.0
+! Syntax: AdBlock
+! Number of entries: 6
+
+!Videos in related bar
+youtube.com###related ytd-compact-video-renderer:has-text(/(Pablo ?)?Mar[cç]all?|Tony ?Robbins ?(live)?|Rodrigo[ -]?Pimentel|(M[aá]rio ?S[eé]rgio ?Cortella)|(Canal ?do ?Cortella)|Cl[oó]vis ?de ?Barros ?(Filho)(Oficial)?|(pr|pastor)? ?Claudio ?Duarte/i):remove()
+!Shorts
+youtube.com##ytd-shelf-renderer:has-text(/(Pablo ?)?Mar[cç]all?|Tony ?Robbins ?(live)?|Rodrigo[ -]?Pimentel|(M[aá]rio ?S[eé]rgio ?Cortella)|(Canal ?do ?Cortella)|Cl[oó]vis ?de ?Barros ?(Filho)(Oficial)?|(pr|pastor)? ?Claudio ?Duarte/i):remove()
+!Videos in general
+youtube.com##ytd-video-renderer:has-text(/(Pablo ?)?Mar[cç]all?|Tony ?Robbins ?(live)?|Rodrigo[ -]?Pimentel|(M[aá]rio ?S[eé]rgio ?Cortella)|(Canal ?do ?Cortella)|Cl[oó]vis ?de ?Barros ?(Filho)(Oficial)?|(pr|pastor)? ?Claudio ?Duarte/i):remove()
+!Shorts
+youtube.com##ytd-rich-item-renderer:has-text(/(Pablo ?)?Mar[cç]all?|Tony ?Robbins ?(live)?|Rodrigo[ -]?Pimentel|(M[aá]rio ?S[eé]rgio ?Cortella)|(Canal ?do ?Cortella)|Cl[oó]vis ?de ?Barros ?(Filho)(Oficial)?|(pr|pastor)? ?Claudio ?Duarte/i):remove()
+!Channel
+youtube.com##ytd-channel-renderer:has-text(/(Pablo ?)?Mar[cç]all?|Tony ?Robbins ?(live)?|Rodrigo[ -]?Pimentel|(M[aá]rio ?S[eé]rgio ?Cortella)|(Canal ?do ?Cortella)|Cl[oó]vis ?de ?Barros ?(Filho)(Oficial)?|(pr|pastor)? ?Claudio ?Duarte/i):remove()
+!Shorts
+youtube.com##ytd-reel-shelf-renderer:has-text(/(Pablo ?)?Mar[cç]all?|Tony ?Robbins ?(live)?|Rodrigo[ -]?Pimentel|(M[aá]rio ?S[eé]rgio ?Cortella)|(Canal ?do ?Cortella)|Cl[oó]vis ?de ?Barros ?(Filho)(Oficial)?|(pr|pastor)? ?Claudio ?Duarte/i):remove()
