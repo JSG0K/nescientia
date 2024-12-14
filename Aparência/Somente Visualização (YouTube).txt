@@ -23,8 +23,6 @@ youtube.com##ytd-reel-shelf-renderer
 youtube.com##ytd-rich-shelf-renderer
 youtube.com##ytd-video-renderer:has-text(/Shorts|Rells/i)
 youtube.com##yt-tab-shape:has-text(/Shorts|Rells/i)
-! Removem mixes
-youtube.com##yt-lockup-view-model
 ! Remove channel reels tab button
 youtube.com##yt-tab-shape:matches-path(/@.*|\/c\/.*/i):has-text(/Shorts|Rells/i)
 ! Remove channel's banner
@@ -57,8 +55,6 @@ youtube.com##.iv-branding
 youtube.com##.ytd-video-description-infocards-section-renderer
 ! Remove Homepage Filters
 youtube.com##ytd-feed-filter-chip-bar-renderer
-! Remove Homepage Videos
-youtube.com###contents[class="style-scope ytd-rich-grid-renderer"]
 ! Remove Search Suggestions
 youtube.com##.ytSearchboxComponentSuggestionsContainer
 ! Hide "1080p Premium" in the video quality menu
@@ -77,3 +73,33 @@ youtube.com##.ytp-paid-content-overlay
 youtube.com##.ytp-suggested-action
 ! Remove Badge from Videos
 youtube.com##ytd-badge-supported-renderer
+! Top chip filters home
+youtube.com##ytm-feed-filter-chip-bar-renderer
+! Explore more topics
+youtube.com##ytm-rich-section-renderer:has-text(/Explore ?more ?topics/i
+! Shorts
+youtube.com##ytm-video-with-context-renderer:has-text(/shorts/i)
+youtube.com##ytm-reel-shelf-renderer
+youtube.com##ytm-rich-section-renderer:has-text(/shorts/i)
+! Top buttons
+m.youtube.com##button[aria-label="Account"]
+youtube.com##.mobile-topbar-header-sign-in-button
+! Likes
+youtube.com##ytm-slim-video-action-bar-renderer
+! Comments
+youtube.com##ytm-item-section-renderer[section-identifier="comments-entry-point"]
+! Related videos
+youtube.com##.related-items-container
+! Bottom bar
+youtube.com##ytm-pivot-bar-renderer
+! Left bar
+youtube.com###guide-content[class="style-scope ytd-app"]
+! Main content
+youtube.com##.tab-content[tab-title="Home"]
+youtube.com##ytd-two-column-browse-results-renderer[page-subtype="home"] #contents
+! Remove app promo render
+youtube.com##ytm-watch-metadata-app-promo-renderer
+! Remove subscribe button
+youtube.com##ytm-subscribe-button-renderer
+! Remove members section
+youtube.com##ytd-recognition-shelf-renderer

@@ -7,26 +7,26 @@ import requests
 def download_all_lists_from_github():
     # Lista de tuplas contendo o nome da lista e o URL correspondente
     lists = [
-        ("Política (Youtube)",
-         "https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/Pol%C3%ADtica/Pol%C3%ADtica%20(Youtube).txt"),
-        ("Geração Z (Youtube)",
-         "https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/Gera%C3%A7%C3%A3o%20Z/Gera%C3%A7%C3%A3o%20Z%20(Youtube).txt"),
-        ("Coaches (Youtube)",
-         "https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/Coaches/Coaches%20(Youtube).txt"),
-        ("Pseudociência (Youtube)",
-         "https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/Pseudoci%C3%AAncia/Pseudoci%C3%AAncia%20(Youtube).txt"),
-        ("Conteúdo Sexual (Youtube)",
-         "https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/Cont%C3%A9udo%20Sexual/Cont%C3%A9udo%20Sexual%20(Youtube).txt"),
-        ("Religião (Youtube)",
-         "https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/Religi%C3%A3o/Religi%C3%A3o%20(Youtube).txt"),
-        ("Games (Youtube)",
-         "https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/Games/Games%20(Youtube).txt"),
-        ("Bets (Youtube)",
-         "https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/Bets/Bets%20(Youtube).txt"),
-        ("TikTok Major Influencers (Youtube)",
-         "https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/Tiktok%20Major%20Influencers/Tiktok%20Major%20Influencers%20(Youtube).txt"),
-        ("Notícias (Youtube)",
-         "https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/Not%C3%ADcias/Not%C3%ADcias%20(Youtube).txt")
+        ("Política (YouTube)",
+         "https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/Pol%C3%ADtica/Pol%C3%ADtica%20(YouTube).txt"),
+        ("Geração Z (YouTube)",
+         "https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/Gera%C3%A7%C3%A3o%20Z/Gera%C3%A7%C3%A3o%20Z%20(YouTube).txt"),
+        ("Coaches (YouTube)",
+         "https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/Coaches/Coaches%20(YouTube).txt"),
+        ("Pseudociência (YouTube)",
+         "https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/Pseudoci%C3%AAncia/Pseudoci%C3%AAncia%20(YouTube).txt"),
+        ("Conteúdo Adulto (YouTube)",
+         "https://github.com/JSG0K/nescientia/blob/main/Conte%C3%BAdo%20Adulto/Conte%C3%BAdo%20Adulto%20(YouTube).txt"),
+        ("Religião (YouTube)",
+         "https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/Religi%C3%A3o/Religi%C3%A3o%20(YouTube).txt"),
+        ("Games (YouTube)",
+         "https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/Games/Games%20(YouTube).txt"),
+        ("Bets (YouTube)",
+         "https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/Bets/Bets%20(YouTube).txt"),
+        ("TikTok Major Influencers (YouTube)",
+         "https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/TikTok%20Major%20Influencers/TikTok%20Major%20Influencers%20(YouTube).txt"),
+        ("Notícias (YouTube)",
+         "https://raw.githubusercontent.com/JSG0K/nescientia/refs/heads/main/Not%C3%ADcias/Not%C3%ADcias%20(YouTube).txt")
     ]
 
     # Itera sobre cada lista para baixar
